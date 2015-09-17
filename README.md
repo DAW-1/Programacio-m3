@@ -21,6 +21,6 @@ Linux "Ubuntu que és el que usem a classe": https://netbeans.org/downloads/
 
 Windows: https://netbeans.org/downloads/
 
-        Exactament el mateix que linux, pero son aurem d'executar el instal·lador i res més.
+        Exactament el mateix que linux, pero son haurem d'executar el instal·lador i res més.
         
     
