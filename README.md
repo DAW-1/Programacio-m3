@@ -5,6 +5,10 @@ Amb aquest repository podreu compartir qualsevol arxiu o programa que volgueu co
 per qualsevol tipus de dubte, o , per exemple, per dur a terme algun exercici del qual es necessiti més
 d'una sola persona 
 
+Per crear un altre repositori es tant fàcil com crear-vos una conta entrar al meu perfil https://github.com/spartan195 o enviar-me el vostre per missatge i us afegiré, una vegada fet aixó podreu crear repositoris on pujar qualsevol projecte.
+
+Aquest es un exemple per mostrar-vos com funciona, però també podeu tindre cadascú el vostre on us organitzareu per carpetes, vosaltres trieu.
+
 Eines que necessitareu per a M3:
 
 Netbeans:       https://netbeans.org/downloads/  "Per als ordinadors de classe és la versió Linux x64"
