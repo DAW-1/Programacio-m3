@@ -10,7 +10,7 @@ Eines que necessitareu per a M3:
 Netbeans:       https://netbeans.org/downloads/
 
         Netbeans és un entorn de desenvolupament integrat "IDE" lliure, principalment fet per a java, n'existeixen més
-        com l'eclipse, pero usarem netbeans, Per instal·lar-lo descarregueu-vos el instal·lador amb el link que us he deixat         adalt ^:
+        com l'eclipse, pero usarem netbeans, Per instal·lar-lo descarregueu-vos el instal·lador amb el link que us he deixat adalt ^:
 
 Linux "Ubuntu que és el que usem a classe":     
 
