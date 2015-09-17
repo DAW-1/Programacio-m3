@@ -16,7 +16,7 @@ Linux "Ubuntu que és el que usem a classe": https://netbeans.org/downloads/
 
         -La primera opció es la més lleugera i cumpleix de sobres les necessitats.
         -Una vegada descarregat sol necessitem fer click dreat a propietats i a permisos seleccionar el botó per permetre que
-    s'executi.
+         s'executi.
         -Ara sol necessitem obrir una terminal i arrastrar el .sh i apretar intro, ara ja haurem iniciat el instalador.
 
 Windows: https://netbeans.org/downloads/
