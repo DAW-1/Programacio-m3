@@ -26,5 +26,6 @@ Windows :
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnes                
 
         -Una vegada el tinguém instal·lat podrem executar el instal·lador del netbeans que hem descarregat anteriorment
-        
+
+WIKI PROGRAMACIO-M3:    https://github.com/DAW-1/Programacio-m3/wiki
     
