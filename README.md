@@ -7,12 +7,12 @@ d'una sola persona
 
 Eines que necessitareu per a M3:
 
-Netbeans:       https://netbeans.org/downloads/
+Netbeans:       https://netbeans.org/downloads/  "Per als ordinadors de classe és la versió Linux x64"
 
         Netbeans és un entorn de desenvolupament integrat "IDE" lliure, principalment fet per a java, n'existeixen més
         com l'eclipse, pero usarem netbeans, Per instal·lar-lo descarregueu-vos el instal·lador amb el link que us he deixat adalt ^:
 
-Linux "Ubuntu que és el que usem a classe":     
+Linux :     
 
         -La primera opció es la més lleugera i cumpleix de sobres les necessitats.
         -Una vegada descarregat sol necessitem fer click dreat a propietats i a permisos seleccionar el botó per permetre que
@@ -20,7 +20,7 @@ Linux "Ubuntu que és el que usem a classe":
         -Ara sol necessitem obrir una terminal i arrastrar el .sh i apretar intro, ara ja haurem iniciat el instalador.
         -No necessitem instalar el sdk perque linux ja el porta incorporat
 
-Windows:                                 
+Windows :                                 
 
         -Primer necessitarem tindre instal·lat a windows el skd de java, per aixó el descarregarem d'aquí:
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnes                
