@@ -19,8 +19,8 @@ Linux "Ubuntu que és el que usem a classe": https://netbeans.org/downloads/
     s'executi.
         -Ara sol necessitem obrir una terminal i arrastrar el .sh i apretar intro, ara ja haurem iniciat el instalador.
 
-Windows: 
+Windows: https://netbeans.org/downloads/
 
         Exactament el mateix que linux, pero son aurem d'executar el instal·lador i res més.
-        https://netbeans.org/downloads/
+        
     
