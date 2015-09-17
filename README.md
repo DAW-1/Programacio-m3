@@ -19,8 +19,11 @@ Linux "Ubuntu que és el que usem a classe": https://netbeans.org/downloads/
          s'executi.
         -Ara sol necessitem obrir una terminal i arrastrar el .sh i apretar intro, ara ja haurem iniciat el instalador.
 
-Windows: https://netbeans.org/downloads/
+Windows: https://netbeans.org/downloads/                                
 
-        Exactament el mateix que linux, pero son haurem d'executar el instal·lador i res més.
+        Primer necessitarem tindre instal·lat a windows el skd de java, per aixó el descarregarem d'aquí:
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnes                
+
+        Una vegada el tinguém instal·lat podrem executar el instal·lador del netbeans que hem descarregat anteriorment
         
     
